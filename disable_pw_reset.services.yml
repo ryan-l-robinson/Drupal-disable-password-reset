@@ -1,0 +1,5 @@
+services:
+  custom.route_subscriber:
+    class: Drupal\disable_pw_reset\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

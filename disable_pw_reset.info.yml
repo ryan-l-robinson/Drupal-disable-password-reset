@@ -1,0 +1,5 @@
+name: "Disable Password Reset"
+description: "Denies access to the password reset functionality."
+package: Other
+type: module
+core_version_requirement: ^9
