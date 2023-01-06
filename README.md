@@ -1,0 +1,1 @@
+This module for Drupal 9 provides one simple function: it blocks the usage of the self-service password reset that is normally available from the user login screen.
